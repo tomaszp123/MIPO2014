@@ -5,6 +5,7 @@ import java.util.Date;
 import commons.Rachunek;
 
 // tu by się przydały komentarze ...
+// a teraz komentarz napisany na MacHub pod Xcode
 
 public abstract class MechanizmOdsetkowy {
 
