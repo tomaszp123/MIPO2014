@@ -4,6 +4,8 @@ import java.util.Date;
 
 import commons.Rachunek;
 
+// tu by się przydały komentarze ...
+
 public abstract class MechanizmOdsetkowy {
 
 protected Date dataNastNaliczenia;
